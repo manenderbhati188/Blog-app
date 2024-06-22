@@ -37,7 +37,7 @@ const Home = () => {
 
   return (
     <div className="home">
-      <h1>News App</h1>
+      <h1>Blog App</h1>
 
       <div className="category-filter">
         <label htmlFor="category-select">Choose a category:</label>
